@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+type: software
+title: "GlobalSat DG-388 .gpl Parser"
+abstract: "First open-source decoder for the GlobalSat DG-388 GPS data logger's proprietary .gpl binary format. Converts .gpl track files to CSV or GPX with full coordinate, altitude, speed, heading, and timestamp recovery. Pure Python, no dependencies."
+authors:
+  - family-names: "Irby"
+    given-names: "J."
+    alias: "jbirby"
+repository-code: "https://github.com/jbirby/globalsat-dg388-gpl-parser"
+url: "https://github.com/jbirby/globalsat-dg388-gpl-parser"
+license: MIT
+keywords:
+  - gps
+  - gps-data-logger
+  - globalsat
+  - dg-388
+  - gpl
+  - reverse-engineering
+  - gpx
+  - python
+date-released: 2026-03-30
