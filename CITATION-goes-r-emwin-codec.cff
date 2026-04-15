@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+type: software
+title: "GOES-R EMWIN Codec"
+abstract: "Pure-Python extractor and synthetic encoder for EMWIN (Emergency Managers Weather Information Network) files carried in modern GOES-R HRIT downlinks. Auto-detects HRIT-wrapped files and raw EMWIN packet streams, handles multi-part reassembly, zlib decompression, and CRC-32 integrity checking."
+authors:
+  - family-names: "Irby"
+    given-names: "J."
+    alias: "jbirby"
+repository-code: "https://github.com/jbirby/goes-r-emwin-codec"
+url: "https://github.com/jbirby/goes-r-emwin-codec"
+license: MIT
+keywords:
+  - goes-r
+  - goes-16
+  - goes-18
+  - emwin
+  - hrit
+  - lrit
+  - noaa
+  - weather-satellite
+  - python
+date-released: 2026-04-14
